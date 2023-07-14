@@ -34,7 +34,7 @@ Run the following command to run the Application!
 
 ```sh
 git clone https://github.com/Arl-Miz/E-commerce.git
-cd E-commerce-master
+cd E-commerce
 python manage.py runserver
 ```
 
