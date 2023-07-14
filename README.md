@@ -30,7 +30,7 @@
 
 ## Usage
 
-Open a terminal and run the following command to run the Application!
+Open a terminal and run the following command to start the Application!
 
 ```sh
 git clone https://github.com/Arl-Miz/E-commerce.git
