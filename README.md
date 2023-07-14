@@ -30,11 +30,11 @@
 
 ## Usage
 
-Run the following command to run the Application!
+Open a terminal and run the following command to run the Application!
 
 ```sh
 git clone https://github.com/Arl-Miz/E-commerce.git
-cd E-commerce
+cd E-commerce/
 python manage.py runserver
 ```
 
